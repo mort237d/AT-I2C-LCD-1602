@@ -1,0 +1,2 @@
+rootProject.name='AT I2C LCD 1602'
+include ':app'
